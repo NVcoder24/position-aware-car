@@ -15,5 +15,5 @@
 
 # Материалы
 ![alt text](https://github.com/NVcoder24/position-aware-car/blob/main/stuff/scheme1.png)
-![alt text](https://github.com/NVcoder24/position-aware-car/blob/main/stuff/photo1.jpg | width=300)
-![alt text](https://github.com/NVcoder24/position-aware-car/blob/main/stuff/photo2.jpg | width=300)
+<img src="https://github.com/NVcoder24/position-aware-car/blob/main/stuff/photo1.jpg" alt="" style="width:50%; height:auto;">
+<img src="https://github.com/NVcoder24/position-aware-car/blob/main/stuff/photo2.jpg" alt="" style="width:50%; height:auto;">
