@@ -11,9 +11,10 @@
 
 Из этого можно строить маршруты перемещения и выполнять разные задачи.
 
-В пример приведено поддержание направления машинки на PID регуляторе.
+В [пример](https://github.com/NVcoder24/position-aware-car/blob/main/stuff/nrfcarvid1.mov) приведено поддержание направления машинки на PID регуляторе.
 
 # Материалы
 ![alt text](https://github.com/NVcoder24/position-aware-car/blob/main/stuff/scheme1.png)
+<img src="https://github.com/NVcoder24/position-aware-car/blob/main/stuff/screenshot1.jpg" alt="">
 <img src="https://github.com/NVcoder24/position-aware-car/blob/main/stuff/photo1.jpg" alt="" style="width:50%; height:auto;">
 <img src="https://github.com/NVcoder24/position-aware-car/blob/main/stuff/photo2.jpg" alt="" style="width:50%; height:auto;">
